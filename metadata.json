@@ -1,0 +1,6 @@
+{
+  "name": "ERNDA",
+  "description": "An intelligent, high-precision personal agenda and knowledge management system powered by AI.",
+  "icon": "https://api.dicebear.com/7.x/shapes/svg?seed=ERNDA&backgroundColor=f27d26",
+  "requestFramePermissions": []
+}
